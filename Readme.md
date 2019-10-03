@@ -1,20 +1,23 @@
 ## Install all the things:
+```bash
 {
   brew tap michaeldimmitt/taps && 
   brew install dir && 
   brew install reveal;
 }
+```
 Want more taps? see:
 https://github.com/MenkeTechnologies/homebrew-taps
 
 Quick Start:
 Fork this project and brew tap will work for you!
-
+```bash
 {
   brew tap <your-name-here>/taps &&
   brew install dir &&
   brew install reveal;
 }
+```
 you might need to update the sha.
 the url is where the magic happens.
 Ohhhhh, so you want to have your own tap of this brew?
