@@ -34,7 +34,7 @@ https://docs.brew.sh/How-to-Create-and-Maintain-a-Tap
 # note: any brew formulae is able to be viewed after being downloaded.
 # simply type:
 
- brew edit <brew name>
+brew edit <brew name>
 ```
 
 ## enjoy 😅
