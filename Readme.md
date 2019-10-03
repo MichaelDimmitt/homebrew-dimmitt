@@ -30,10 +30,10 @@ https://docs.brew.sh/How-to-Create-and-Maintain-a-Tap
 4) check my formulae dir to see how it is done. 🔥
 5) copy that code and paste it into the example formulae brew provided.
 6) my formulae is super simple ... it just installs a script into bin/local making it executable!
-
+```bash
 # note: any brew formulae is able to be viewed after being downloaded.
 # simply type:
-```bash
+
  brew edit <brew name>
 ```
 
